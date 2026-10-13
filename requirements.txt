@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python==4.10.0.84
+PyQt5
+numpy
+pillow
+scikit-learn
+matplotlib

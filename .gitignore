@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+*.pth
+archive.zip
+archive/
+dataset/
+train/
+test/
+data/
+Examples.py
+*.log
+.ipynb_checkpoints/

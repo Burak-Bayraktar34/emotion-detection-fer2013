@@ -1,0 +1,6 @@
+@echo off
+echo Installing packages (first run may take a few minutes)...
+pip install -r requirements.txt
+echo Starting the app...
+python app.py
+pause
